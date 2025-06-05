@@ -1,0 +1,51 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "214,257,782,1082"
+
+[AB_Cache_{41E386B3-979A-4AEC-B571-8EAA828CA635}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "1ceedc5779aa23a53ac6225068b98d8b"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/C/MyProjects/builds/SQM160CommComplete/SQM1"
+Cache_GenFile[0][Path] Line0002 = "60CommComplete Application/SQM160CommComplet"
+Cache_GenFile[0][Path] Line0003 = "e.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/MyProjects/builds/SQM160CommComplete/SQM1"
+Cache_GenFile[1][Path] Line0002 = "60CommComplete Application/SQM160CommComplet"
+Cache_GenFile[1][Path] Line0003 = "e.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/MyProjects/builds/SQM160CommComplete/SQM1"
+Cache_GenFile[2][Path] Line0002 = "60CommComplete Application/SQM160CommComplet"
+Cache_GenFile[2][Path] Line0003 = "e.ini"
+Cache_GenFile[3][Path] Line0001 = "/C/MyProjects/builds/SQM160CommComplete/SQM1"
+Cache_GenFile[3][Path] Line0002 = "60CommComplete Application/data/SQM160.ico"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{E33A93E3-314A-4C37-B9BD-ACFAE8E7238F}"
+Cache_GenGUID[1][String] = "{5BDD3852-45A6-4A4E-B660-2C8B73B8683B}"
+Cache_GenGUID[2][String] = "{688A6B32-F50F-4260-AE9A-2AF8E24AC3E7}"
+Cache_GenGUID[3][String] = "{B84F1954-36F7-49A7-A52C-BAAD743EF792}"
+Cache_OutputDir[Path] Line0001 = "/C/MyProjects/builds/SQM160CommComplete/SQM16"
+Cache_OutputDir[Path] Line0002 = "0CommComplete Application"
+
+[AB_Cache_{DE075D38-3FB1-4800-BE52-886B755E6C08}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "1ceedc5779aa23a53ac6225068b98d8b"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/C/MyProjects/builds/SQM160CommComplete/SQM1"
+Cache_GenFile[0][Path] Line0002 = "60CommComplete Application/SQM160CommComplet"
+Cache_GenFile[0][Path] Line0003 = "e.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/MyProjects/builds/SQM160CommComplete/SQM1"
+Cache_GenFile[1][Path] Line0002 = "60CommComplete Application/SQM160CommComplet"
+Cache_GenFile[1][Path] Line0003 = "e.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/MyProjects/builds/SQM160CommComplete/SQM1"
+Cache_GenFile[2][Path] Line0002 = "60CommComplete Application/SQM160CommComplet"
+Cache_GenFile[2][Path] Line0003 = "e.ini"
+Cache_GenFile[3][Path] Line0001 = "/C/MyProjects/builds/SQM160CommComplete/SQM1"
+Cache_GenFile[3][Path] Line0002 = "60CommComplete Application/data/SQM160.ico"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{E33A93E3-314A-4C37-B9BD-ACFAE8E7238F}"
+Cache_GenGUID[1][String] = "{5BDD3852-45A6-4A4E-B660-2C8B73B8683B}"
+Cache_GenGUID[2][String] = "{688A6B32-F50F-4260-AE9A-2AF8E24AC3E7}"
+Cache_GenGUID[3][String] = "{B84F1954-36F7-49A7-A52C-BAAD743EF792}"
+Cache_OutputDir[Path] Line0001 = "/C/MyProjects/builds/SQM160CommComplete/SQM16"
+Cache_OutputDir[Path] Line0002 = "0CommComplete Application"
+
